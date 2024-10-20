@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on projects that involve back-end development, API design, and large-scale data handling. Open to contributing to open-source projects, and I’m always excited to learn from and work with talented developers around the globe.
 
-- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/daundkarrajesh) or email me at [rajesh20101989@gmail.com](mailto:rajesh20101989@gmail.com).
+- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/rajeshdaundkar/) or email me at [rajesh20101989@gmail.com](mailto:rajesh20101989@gmail.com).
 
 - 😄 Pronouns: He/Him
 
